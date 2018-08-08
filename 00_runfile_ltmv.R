@@ -10,7 +10,7 @@ for(path in paths){
   dir.create(path)                  # create empty folder
 }
 
-## run my scripts
+## run scripts
 source("01_import_ltmv.R")
 source("02_prep_ltmv.R")
 source("03_plot_ltmv.R")
