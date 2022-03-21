@@ -1,4 +1,4 @@
-# ltmv
+# Less Trust, Moore Verficiation
 
 This repository includes the code for "Less Trust, Moore Verification: Determining the Accuracy of Third-Party Data through an Innovative Use of Attention Checks", available as preprint on SocArXiv (https://osf.io/preprints/socarxiv/93msy/) or as a blog post on scatterplot (https://scatter.wordpress.com/2017/12/08/less-trust-moore-verification-attention-checks-reveal-errors-in-poll-data/)
 
